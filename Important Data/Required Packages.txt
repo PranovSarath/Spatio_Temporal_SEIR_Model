@@ -1,0 +1,6 @@
+shapely
+descartes
+osmnx
+geopandas
+openpyxl
+networkx
